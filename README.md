@@ -1,16 +1,33 @@
-## Hi there 👋
+# 💻 Mohd Ubaid | Problem Solver & Salesforce Developer
 
-<!--
-**MohdUbaid01/MohdUbaid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I’m **Mohd Ubaid**, currently pursuing my engineering degree, set to graduate in 2025 and continuously honing my skills to deliver innovative solutions in the tech world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+- **Python** | **Java** | **JavaScript** | **Apex** | **C** -
+
+### Salesforce Development
+- **Salesforce Admin & Development**
+- Apex Triggers, Classes, and SOQL
+- Lightning Components (Aura & LWC)
+- Process Automation: Triggers and Flows
+- Salesforce Data Management (Data Loader, Reports, and Dashboards)
+
+### Web Development
+- HTML | CSS | JavaScript
+
+### Other Tools & Platforms
+- Git/GitHub | Visual Studio Code
+  
+---
+
+## 🌱 Currently Learning
+- Advanced Salesforce development techniques
+- Salesforce Lightning Web Components for Building UI
+- Integrating Salesforce with third-party services using REST APIs
+  
+
+⭐️Let's build something amazing together!
