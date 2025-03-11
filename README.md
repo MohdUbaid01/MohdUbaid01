@@ -12,7 +12,6 @@ Hello! 👋 I’m **Mohd Ubaid**, currently pursuing my engineering degree, set 
 ### Salesforce Development
 - **Salesforce Admin & Development**
 - Apex Triggers, Classes, and SOQL
-- Lightning Components (Aura & LWC)
 - Process Automation: Triggers and Flows
 - Salesforce Data Management (Data Loader, Reports, and Dashboards)
 
@@ -25,7 +24,6 @@ Hello! 👋 I’m **Mohd Ubaid**, currently pursuing my engineering degree, set 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Salesforce development techniques
 - Salesforce Lightning Web Components for Building UI
 - Integrating Salesforce with third-party services using REST APIs
   
