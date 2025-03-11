@@ -1,4 +1,4 @@
-# 💻 Mohd Ubaid | Problem Solver & Salesforce Developer
+# 💻 Mohd Ubaid | Problem Solver & Software Developer
 
 Hello! 👋 I’m **Mohd Ubaid**, currently pursuing my engineering degree, set to graduate in 2025 and continuously honing my skills to deliver innovative solutions in the tech world.
 
